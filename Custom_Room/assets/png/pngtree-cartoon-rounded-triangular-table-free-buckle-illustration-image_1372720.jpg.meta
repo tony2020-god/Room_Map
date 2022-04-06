@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ca623d2d-961d-47c2-b65c-aaf161631268",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 360,
+  "height": 360,
+  "platformSettings": {},
+  "subMetas": {
+    "pngtree-cartoon-rounded-triangular-table-free-buckle-illustration-image_1372720": {
+      "ver": "1.0.4",
+      "uuid": "129983b1-83af-4339-ace6-08b83ff57a8b",
+      "rawTextureUuid": "ca623d2d-961d-47c2-b65c-aaf161631268",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 360,
+      "height": 360,
+      "rawWidth": 360,
+      "rawHeight": 360,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
