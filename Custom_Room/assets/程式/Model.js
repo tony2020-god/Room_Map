@@ -18,9 +18,11 @@ var ObjectData = [
     },
 ];
 var MouseType = null
+var TpPosition = []
 //要在自己的腳本導出變量才能讓別人繼承  
 module.exports = {    
     NowTarget, //目前選定的物件
     ObjectData, //所有物件
     MouseType,
+    TpPosition,
 };

@@ -1,0 +1,79 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "往右攻擊",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.7666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "8de3af44-294d-41aa-9c28-ec1d55da27e9"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "b8ce94b2-3188-4753-b458-864bd4a9951d"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "eace8329-e400-4d9e-aa0a-757ffe6ba912"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "a9f73c15-0762-490d-844d-c9af2e8741e3"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "2de866b3-7d3a-4b2e-9d1a-4ef72766aed8"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "8e64a326-efd2-484d-a194-cf193dadf80c"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "8a57b5b9-7a96-4acc-a9b3-f670719072c8"
+            }
+          },
+          {
+            "frame": 0.5833333333333334,
+            "value": {
+              "__uuid__": "16fe5ed7-a055-40aa-93c2-54350fda84eb"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "6b49c418-bfd0-48bf-a315-0cb4530a3188"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "9c4c626a-0a7b-4cb8-8935-cf6302754fff"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

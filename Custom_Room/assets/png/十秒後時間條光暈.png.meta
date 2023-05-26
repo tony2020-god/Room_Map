@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ba023ac1-69b4-45f6-a7fe-64b59609e26b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 3791,
+  "height": 111,
+  "platformSettings": {},
+  "subMetas": {
+    "十秒後時間條光暈": {
+      "ver": "1.0.4",
+      "uuid": "23962cc2-0d68-40b4-998e-c202ef327a1e",
+      "rawTextureUuid": "ba023ac1-69b4-45f6-a7fe-64b59609e26b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 3790,
+      "height": 109,
+      "rawWidth": 3791,
+      "rawHeight": 111,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -36,7 +36,6 @@ cc.Class({
     },
 
 
-
     Click(event, customEventData){
         gameModel.MouseType =  customEventData
         if(this.MouseObject.getComponent(cc.Sprite).spriteFrame == event.target.getComponent(cc.Sprite).spriteFrame)

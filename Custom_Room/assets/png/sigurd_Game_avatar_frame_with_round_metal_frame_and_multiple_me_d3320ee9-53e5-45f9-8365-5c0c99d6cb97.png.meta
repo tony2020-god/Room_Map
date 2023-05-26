@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "4f1ae36c-a761-4a7a-b49e-12a1c950caa1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 1024,
+  "platformSettings": {},
+  "subMetas": {
+    "sigurd_Game_avatar_frame_with_round_metal_frame_and_multiple_me_d3320ee9-53e5-45f9-8365-5c0c99d6cb97": {
+      "ver": "1.0.4",
+      "uuid": "7416b405-f5d3-4c9d-8456-e5bd901bdfa7",
+      "rawTextureUuid": "4f1ae36c-a761-4a7a-b49e-12a1c950caa1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 3.5,
+      "offsetY": 5.5,
+      "trimX": 84,
+      "trimY": 91,
+      "width": 863,
+      "height": 831,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -13,6 +13,10 @@ cc.Class({
             default : null,
             type:cc.Node
         },
+        endtext:{
+            default : null,
+            type:cc.Label
+        },
     },
 
     // LIFE-CYCLE CALLBACKS:
@@ -75,5 +79,8 @@ cc.Class({
         node.parent = this.items_parent
     },
 
+    ChangeText(){
+        this.endtext.string = "結束遊戲"
+    },
     // update (dt) {},
 });

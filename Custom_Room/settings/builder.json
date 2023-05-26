@@ -1,7 +1,7 @@
 {
   "title": "Custom_Room",
   "packageName": "org.cocos2d.demo",
-  "startScene": "14b05d4a-aaa3-4a00-9fe3-4ce686cb4879",
+  "startScene": "522cf4e0-d94f-46c5-a668-f12c761e7fed",
   "excludeScenes": [],
   "orientation": {
     "landscapeRight": true,

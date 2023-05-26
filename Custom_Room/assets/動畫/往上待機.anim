@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "往上待機",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.43333333333333335,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "86625c03-6880-43d3-abe2-f9d4199c443b"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "2e2d4643-7294-47ae-948b-9c2530f96b5a"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "7615d9d9-9332-41c4-84df-03222849c83d"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "b399e85d-d7d6-4221-89ed-96683f0cd02f"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "33ef5646-e10f-4a84-ad86-6071611fb693"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "8559089a-eece-45c7-9976-257164593a8b"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
